@@ -31,7 +31,7 @@ public class Principal extends AppCompatActivity {
             public void onItemClick(AdapterView<?> adapterView, View view, int i, long l) {
                 switch (i){
                     case 0:
-                        in= new Intent(Principal.this, Listar.class);
+                        in= new Intent(Principal.this, Registrar.class);
                         startActivity(in);
                         break;
 

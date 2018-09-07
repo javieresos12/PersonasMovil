@@ -11,4 +11,5 @@
         <item>@string/registrar</item>
         <item>@string/listar</item>
     </string-array>
+    <string name="mensaje">Persona registrada exitosamente</string>
 </resources>
